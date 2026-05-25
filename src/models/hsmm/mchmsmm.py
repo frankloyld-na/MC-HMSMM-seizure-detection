@@ -14,7 +14,7 @@ import cupy as cp
 from multiprocessing import Manager
 import random
 
-class HiddenMarkovScaleMixtureModel_elbow:
+class HiddenMarkovScaleMixtureModel:
     """
     Hidden Markov-based Time-series Scale Mixture Model
 
